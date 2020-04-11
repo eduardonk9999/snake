@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#stage{
+  margin: 0 auto;
+  display: block;
+  max-width: 400px;
+  width: 100%;
+}
