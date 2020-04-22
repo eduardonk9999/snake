@@ -32,6 +32,7 @@ span.btn {
     font-size: 80px;
     border-radius: 100px;
     display: block;
+    padding: 30px;
   }
   .container__btns {
     width: 100%;
